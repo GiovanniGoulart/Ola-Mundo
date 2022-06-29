@@ -23,6 +23,17 @@ Lista de tarefas= - [X]criar uma pagina
  Tabela
  Numero|Nome|Nota
  ---|---|---
+ 0|ana|7|
  1|Giovanni|8
  Recomendado para imagem=400 a 500 de largura.
  [AcessemeuGitHub](GiovanniGoulart.github.oi)
+Fazer um comando= Nao entendo o comando `document.getElementByld()` da linguagem JavaScrip
+olha meu programa em Pyton
+```
+num=int(input("Digite um valor:")
+ifnum%2==0:
+   print(f"O valor {num} e par")
+else:
+   print(f"O valor {num} e impar") 
+```
+Ola Galera: 
