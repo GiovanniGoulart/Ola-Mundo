@@ -25,6 +25,4 @@ Lista de tarefas= - [X]criar uma pagina
  ---|---|---
  1|Giovanni|8
  Recomendado para imagem=400 a 500 de largura.
- 
-![Minha foto](https://user-images.githubusercontent.com/107950199/176433750-0f9d96e7-6b6f-4499-be43-9837aca3a70a.jpg)
-[AcessemeuGitHub](GiovanniGoulart.github.oi)
+ [AcessemeuGitHub](GiovanniGoulart.github.oi)
